@@ -5,7 +5,7 @@ Empowering the Nation Website - M.A.L
 
 ## Student Information  
 - **Name:** Marcus Fourie, Luke Granelli, Aneeq Harris
-- **Student Number:** ST10487313, ST10482816, 
+- **Student Number:** ST10487313, ST10482816, ST10479242
 - **Course:** XHAW5112
 - **Institution:** Varsity College  
 
