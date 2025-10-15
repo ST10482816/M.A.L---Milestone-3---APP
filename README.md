@@ -31,46 +31,10 @@ A skilled nation where opportunities in plumbing, electrical, carpentry, solar, 
 - **Google Fonts**: Used under the SIL Open Font License.
 - **Freepik**: Used for the Logo of the website.
 
-## Breakpoints Testing  
-Screenshots demonstrate responsive design tested on smaller breakpoints (e.g., Tablet and Mobile screens). Layout and styling remain intact without major distortions.  
-
-### Examples:  
-- **Homepage on Tablet**  
-
-- **Courses Page on Tablet**  
-
-- **Calculate Fees Page on Tablet**  
-
-- **6-Month Page on Tablet**
-
-- **6-Week Page on Tablet** 
-
-- **Individual Course Page on Tablet**
-
-- **Contact Page on Tablet**  
-
-
-- **Homepage on Mobile**  
-
-- **Courses Page on Mobile**  
-
-- **Calculate Fees Page on Mobile**  
-
-- **6-Month Page on Mobile**
-
-- **6-Week Page on Mobile** 
-
-- **Individual Course Page on Mobile**
-
-- **Contact Page on Mobile**
-  
-*(Screenshots uploaded in the `/screenshots/` folder of the project.)*  
-*(Note: The footers that don't stick to the bottom of the page is ONLY due to the "node screenshot" taken on the website interface!)
-
 ## Changelog  
 - **v1.0 (Milestone 1):** Creating the logo, content research, and wireframes created.  
-- **v1.1 (Milestone 2):** Project setup, CSS, and HTML.
-- **v1.2 (Milestone 3):** Functionality added, and responsive design tested on smaller breakpoints
+- **v1.1 (Milestone 2):** Project setup, created screens and styling.
+- **v1.2 (Milestone 3):** Functionality added.
 
 ## References  
 Figma. (2025) *Figma: The collaborative interface design tool*. Available at: https://www.figma.com (Accessed: 27 August 2025).  
